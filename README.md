@@ -1,1 +1,1 @@
-# Germantris
+# Germantris (the german version of Semantris)
