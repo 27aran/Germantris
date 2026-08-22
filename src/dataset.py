@@ -11,4 +11,4 @@ def load_and_split():
     train, temp = train_test_split(training_pairs, test_size=0.2, random_state=42)
     val, test = train_test_split(temp, test_size=0.5, random_state=42)
 
-    return train, val, test
+    return train, test, val
