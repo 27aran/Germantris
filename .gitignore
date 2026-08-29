@@ -7,3 +7,5 @@ data/raw/
 *.bin
 *.pt
 .idea/
+model/semantris-model/
+model/finetuned_model/
