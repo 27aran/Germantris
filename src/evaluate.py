@@ -20,7 +20,7 @@ def evaluate(model, pairs):
     return corr
 
 train, test, val = load_and_split()
-model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+model = SentenceTransformer("D:/Aran/projects/Germantris/model/finetuned-model")
 result = evaluate(model, test)
 print(result)
 
