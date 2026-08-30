@@ -27,7 +27,7 @@
   [
     "Schwein",
     "Ferkel",
-    0.94
+    0.97
   ],
   [
     "Huhn",
@@ -142,7 +142,7 @@
   [
     "Python",
     "Programmieren",
-    0.9
+    0.98
   ],
   [
     "Mittelwert",
@@ -2362,17 +2362,17 @@
   [
     "Birne",
     "Karotte",
-    0.92
+    0.49
   ],
   [
     "Torte",
     "Kartoffel",
-    0.56
+    0.20
   ],
   [
     "Gurke",
     "Käse",
-    0.75
+    0.30
   ],
   [
     "Schokolade",
@@ -2747,12 +2747,12 @@
   [
     "Multiplayer",
     "Boss",
-    0.2
+    0.4
   ],
   [
     "Mod",
     "Multiplayer",
-    0.27
+    0.4
   ],
   [
     "Update",
@@ -2982,7 +2982,7 @@
   [
     "Alpaka",
     "Schuld",
-    0.37
+    0.05
   ],
   [
     "Salamander",
@@ -3097,12 +3097,12 @@
   [
     "Schriftsteller",
     "Säge",
-    0.42
+    0.29
   ],
   [
     "Ingenieur",
     "Sessel",
-    0.71
+    0.38
   ],
   [
     "Dolmetscher",
@@ -3112,7 +3112,7 @@
   [
     "Wissenschaftler",
     "Koffer",
-    0.37
+    0.2
   ],
   [
     "Musiker",

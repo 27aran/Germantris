@@ -23,7 +23,8 @@ train_dataset = Dataset.from_dict({
 # Training Arguments
 args = SentenceTransformerTrainingArguments(
     output_dir=output_path1,
-    num_train_epochs=30,
+    learning_rate=2e-5,
+    num_train_epochs=50,
     per_device_train_batch_size=16,
     warmup_steps=100,
 )
