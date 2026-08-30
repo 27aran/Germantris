@@ -2,1262 +2,1262 @@
   [
     "Hund",
     "Welpe",
-    0.86
+    0.95
   ],
   [
     "Katze",
     "Kätzchen",
-    0.86
+    0.95
   ],
   [
     "Pferd",
     "Fohlen",
-    0.85
+    0.94
   ],
   [
     "Kuh",
     "Kalb",
-    0.86
+    0.94
   ],
   [
     "Schaf",
     "Lamm",
-    0.85
+    0.94
   ],
   [
     "Schwein",
     "Ferkel",
-    0.88
+    0.97
   ],
   [
     "Huhn",
     "Küken",
-    0.85
+    0.94
   ],
   [
     "Ziege",
     "Zicklein",
-    0.84
+    0.93
   ],
   [
     "Fuchs",
     "Welpe",
-    0.55
+    0.8
   ],
   [
     "Schlüssel",
     "Schloss",
-    0.65
+    0.92
   ],
   [
     "Hammer",
     "Nagel",
-    0.62
+    0.91
   ],
   [
     "Schraubenzieher",
     "Schraube",
-    0.64
+    0.92
   ],
   [
     "Stift",
     "Schreiben",
-    0.55
+    0.9
   ],
   [
     "Buch",
     "Lesen",
-    0.55
+    0.92
   ],
   [
     "Uhr",
     "Zeit",
-    0.7
+    0.93
   ],
   [
     "Vulkan",
     "Lava",
-    0.62
+    0.93
   ],
   [
     "Feuerwehrmann",
     "Feuerwehr",
-    0.68
+    0.95
   ],
   [
     "Pilot",
     "Flugzeug",
-    0.58
+    0.94
   ],
   [
     "Fußball",
     "Tor",
-    0.55
+    0.9
   ],
   [
     "Basketball",
     "Korb",
-    0.55
+    0.91
   ],
   [
     "Tennis",
     "Schläger",
-    0.55
+    0.9
   ],
   [
     "Pokémon",
     "Pikachu",
-    0.7
+    0.93
   ],
   [
     "Minecraft",
     "Creeper",
-    0.62
+    0.88
   ],
   [
     "Among Us",
     "Impostor",
-    0.7
+    0.94
   ],
   [
     "Git",
     "Versionierung",
-    0.65
+    0.9
   ],
   [
     "Commit",
     "Git",
-    0.62
+    0.91
   ],
   [
     "Branch",
     "Git",
-    0.62
+    0.9
   ],
   [
     "Bug",
     "Fehler",
-    0.82
+    0.93
   ],
   [
     "Python",
     "Programmieren",
-    0.72
+    0.98
   ],
   [
     "Mittelwert",
     "Durchschnitt",
-    0.98
+    0.96
   ],
   [
     "Median",
     "Zentralwert",
-    0.97
+    0.95
   ],
   [
     "Auge",
     "Sehen",
-    0.62
+    0.93
   ],
   [
     "Ohr",
     "Hören",
-    0.62
+    0.93
   ],
   [
     "Nase",
     "Riechen",
-    0.62
+    0.92
   ],
   [
     "Arzt",
     "Krankenhaus",
-    0.48
+    0.88
   ],
   [
     "Lehrer",
     "Schule",
-    0.45
+    0.9
   ],
   [
     "Bäcker",
     "Brot",
-    0.48
+    0.9
   ],
   [
     "Barrierefreiheit",
     "Zugänglichkeit",
-    0.98
+    0.96
   ],
   [
     "Alt-Text",
     "Bildbeschreibung",
-    0.9
+    0.93
   ],
   [
     "Korrelation",
     "Zusammenhang",
-    0.95
+    0.9
   ],
   [
     "Button",
     "Schaltfläche",
-    0.98
+    0.96
   ],
   [
     "Bericht",
     "Report",
-    0.98
+    0.96
   ],
   [
     "König",
     "Königin",
-    0.48
+    0.87
   ],
   [
     "Sonne",
     "Licht",
-    0.5
+    0.88
   ],
   [
     "Mond",
     "Nacht",
-    0.4
+    0.86
   ],
   [
     "Regen",
     "Wolke",
-    0.48
+    0.8
   ],
   [
     "Feuer",
     "Hitze",
-    0.52
+    0.88
   ],
   [
     "Eis",
     "Kälte",
-    0.55
+    0.87
   ],
   [
     "Wasser",
     "Nass",
-    0.62
+    0.86
   ],
   [
     "Blitz",
     "Donner",
-    0.55
+    0.85
   ],
   [
     "Winter",
     "Schnee",
-    0.55
+    0.85
   ],
   [
     "Sommer",
     "Sonne",
-    0.42
+    0.83
   ],
   [
     "Baum",
     "Blatt",
-    0.58
+    0.84
   ],
   [
     "Blume",
     "Blüte",
-    0.72
+    0.88
   ],
   [
     "Vogel",
     "Fliegen",
-    0.5
+    0.86
   ],
   [
     "Fisch",
     "Schwimmen",
-    0.5
+    0.87
   ],
   [
     "Biene",
     "Honig",
-    0.45
+    0.86
   ],
   [
     "Spinne",
     "Netz",
-    0.6
+    0.88
   ],
   [
     "Bär",
     "Honig",
-    0.35
+    0.68
   ],
   [
     "Pizza",
     "Italien",
-    0.35
+    0.79
   ],
   [
     "Stress",
     "Arbeit",
-    0.3
+    0.63
   ],
   [
     "Discord",
     "Gaming",
-    0.38
+    0.72
   ],
   [
     "Instagram",
     "Foto",
-    0.45
+    0.78
   ],
   [
     "TikTok",
     "Kurzvideo",
-    0.58
+    0.82
   ],
   [
     "Cringe",
     "Peinlichkeit",
-    0.9
+    0.8
   ],
   [
     "Rizz",
     "Charisma",
-    0.8
+    0.75
   ],
   [
     "GOAT",
     "Legende",
-    0.82
+    0.74
   ],
   [
     "Schach",
     "Brett",
-    0.45
+    0.78
   ],
   [
     "Roman",
     "Geschichte",
-    0.35
+    0.62
   ],
   [
     "Museum",
     "Kunst",
-    0.45
+    0.72
   ],
   [
     "Gitarre",
     "Saiten",
-    0.62
+    0.82
   ],
   [
     "Kaffee",
     "Frühstück",
-    0.28
+    0.65
   ],
   [
     "Kühlschrank",
     "Kälte",
-    0.45
+    0.64
   ],
   [
     "Lehrer",
     "Prüfung",
-    0.3
+    0.6
   ],
   [
     "Schüler",
     "Hausaufgabe",
-    0.35
+    0.65
   ],
   [
     "Polizist",
     "Gesetz",
-    0.35
+    0.68
   ],
   [
     "Anwalt",
     "Gericht",
-    0.5
+    0.75
   ],
   [
     "Richter",
     "Urteil",
-    0.55
+    0.77
   ],
   [
     "Krankenschwester",
     "Pflege",
-    0.55
+    0.78
   ],
   [
     "Koch",
     "Restaurant",
-    0.42
+    0.74
   ],
   [
     "Kellner",
     "Trinkgeld",
-    0.35
+    0.62
   ],
   [
     "Pilot",
     "Wolken",
-    0.35
+    0.6
   ],
   [
     "Astronaut",
     "Weltraum",
-    0.62
+    0.8
   ],
   [
     "Taucher",
     "Meer",
-    0.5
+    0.72
   ],
   [
     "Bergsteiger",
     "Gipfel",
-    0.55
+    0.75
   ],
   [
     "Angst",
     "Dunkelheit",
-    0.28
+    0.58
   ],
   [
     "Freude",
     "Lachen",
-    0.62
+    0.79
   ],
   [
     "Trauer",
     "Weinen",
-    0.62
+    0.8
   ],
   [
     "Wut",
     "Streit",
-    0.45
+    0.66
   ],
   [
     "Liebe",
     "Herz",
-    0.48
+    0.74
   ],
   [
     "Eifersucht",
     "Beziehung",
-    0.3
+    0.6
   ],
   [
     "Einsamkeit",
     "Stille",
-    0.3
+    0.62
   ],
   [
     "Nervosität",
     "Prüfung",
-    0.38
+    0.63
   ],
   [
     "Erleichterung",
     "Ende",
-    0.32
+    0.55
   ],
   [
     "Handy",
     "App",
-    0.58
+    0.7
   ],
   [
     "Laptop",
     "Tastatur",
-    0.62
+    0.78
   ],
   [
     "Drucker",
     "Papier",
-    0.52
+    0.75
   ],
   [
     "Kopfhörer",
     "Musik",
-    0.55
+    0.76
   ],
   [
     "Kamera",
     "Foto",
-    0.62
+    0.8
   ],
   [
     "Fernseher",
     "Serie",
-    0.48
+    0.68
   ],
   [
     "Netflix",
     "Serie",
-    0.55
+    0.78
   ],
   [
     "YouTube",
     "Video",
-    0.55
+    0.79
   ],
   [
     "Spotify",
     "Musik",
-    0.55
+    0.8
   ],
   [
     "Twitch",
     "Streaming",
-    0.55
+    0.78
   ],
   [
     "Reddit",
     "Forum",
-    0.5
+    0.7
   ],
   [
     "WhatsApp",
     "Nachricht",
-    0.55
+    0.74
   ],
   [
     "Fußball",
     "Stadion",
-    0.42
+    0.72
   ],
   [
     "Basketball",
     "Halle",
-    0.38
+    0.6
   ],
   [
     "Schwimmen",
     "Pool",
-    0.45
+    0.72
   ],
   [
     "Boxen",
     "Ring",
-    0.45
+    0.72
   ],
   [
     "Yoga",
     "Entspannung",
-    0.55
+    0.68
   ],
   [
     "Marathon",
     "Ausdauer",
-    0.48
+    0.7
   ],
   [
     "Skifahren",
     "Berg",
-    0.48
+    0.7
   ],
   [
     "Surfen",
     "Welle",
-    0.55
+    0.75
   ],
   [
     "Camping",
     "Zelt",
-    0.58
+    0.76
   ],
   [
     "Wandern",
     "Natur",
-    0.48
+    0.68
   ],
   [
     "Angeln",
     "See",
-    0.45
+    0.7
   ],
   [
     "Jagen",
     "Wald",
-    0.4
+    0.62
   ],
   [
     "Bibliothek",
     "Ruhe",
-    0.38
+    0.55
   ],
   [
     "Klassenzimmer",
     "Tafel",
-    0.5
+    0.65
   ],
   [
     "Büro",
     "Schreibtisch",
-    0.48
+    0.68
   ],
   [
     "Fabrik",
     "Maschine",
-    0.5
+    0.66
   ],
   [
     "Baustelle",
     "Helm",
-    0.45
+    0.65
   ],
   [
     "Krankenhaus",
     "Notaufnahme",
-    0.6
+    0.72
   ],
   [
     "Apotheke",
     "Medikament",
-    0.7
+    0.78
   ],
   [
     "Supermarkt",
     "Einkaufswagen",
-    0.55
+    0.74
   ],
   [
     "Bäckerei",
     "Kuchen",
-    0.52
+    0.7
   ],
   [
     "Metzgerei",
     "Fleisch",
-    0.7
+    0.75
   ],
   [
     "Friseur",
     "Haarschnitt",
-    0.72
+    0.78
   ],
   [
     "Werkstatt",
     "Reparatur",
-    0.58
+    0.68
   ],
   [
     "Bank",
     "Geld",
-    0.55
+    0.72
   ],
   [
     "Post",
     "Paket",
-    0.58
+    0.7
   ],
   [
     "Flughafen",
     "Koffer",
-    0.48
+    0.62
   ],
   [
     "Bahnhof",
     "Zug",
-    0.65
+    0.75
   ],
   [
     "Hafen",
     "Schiff",
-    0.65
+    0.75
   ],
   [
     "Tankstelle",
     "Benzin",
-    0.7
+    0.78
   ],
   [
     "Giraffe",
     "Wolke",
-    0.13
+    0.28
   ],
   [
     "Stuhl",
     "Ozean",
-    0.1
+    0.22
   ],
   [
     "Regenschirm",
     "Wüste",
-    0.11
+    0.24
   ],
   [
     "Schokolade",
     "Mathematik",
-    0.09
+    0.2
   ],
   [
     "Fisch",
     "Fahrrad",
-    0.08
+    0.18
   ],
   [
     "Elefant",
     "Tastatur",
-    0.11
+    0.25
   ],
   [
     "Wolke",
     "Teppich",
-    0.12
+    0.26
   ],
   [
     "Löffel",
     "Galaxie",
-    0.09
+    0.19
   ],
   [
     "Baum",
     "Telefon",
-    0.14
+    0.3
   ],
   [
     "Vulkan",
     "Kissen",
-    0.11
+    0.24
   ],
   [
     "Krokodil",
     "Bibliothek",
-    0.12
+    0.27
   ],
   [
     "Schnee",
     "Pizza",
-    0.13
+    0.29
   ],
   [
     "Mond",
     "Zahnbürste",
-    0.09
+    0.21
   ],
   [
     "Auto",
     "Schmetterling",
-    0.14
+    0.3
   ],
   [
     "Berg",
     "Radiergummi",
-    0.1
+    0.23
   ],
   [
     "Katze",
     "Rakete",
-    0.14
+    0.32
   ],
   [
     "Feder",
     "Zement",
-    0.09
+    0.2
   ],
   [
     "Spiegel",
     "Kartoffel",
-    0.11
+    0.25
   ],
   [
     "Zug",
     "Ananas",
-    0.1
+    0.22
   ],
   [
     "Wüste",
     "Regenmantel",
-    0.13
+    0.28
   ],
   [
     "Blume",
     "Fernbedienung",
-    0.12
+    0.26
   ],
   [
     "Sofa",
     "Vulkanausbruch",
-    0.11
+    0.24
   ],
   [
     "Uhr",
     "Papagei",
-    0.15
+    0.33
   ],
   [
     "Brille",
     "Ozean",
-    0.12
+    0.27
   ],
   [
     "Fenster",
     "Marmelade",
-    0.1
+    0.23
   ],
   [
     "Tür",
     "Sternschnuppe",
-    0.11
+    0.25
   ],
   [
     "Tisch",
     "Nordlicht",
-    0.1
+    0.22
   ],
   [
     "Buch",
     "Staubsauger",
-    0.14
+    0.3
   ],
   [
     "Lampe",
     "Wasserfall",
-    0.14
+    0.31
   ],
   [
     "Teller",
     "Komet",
-    0.09
+    0.19
   ],
   [
     "Gabel",
     "Gletscher",
-    0.09
+    0.21
   ],
   [
     "Socke",
     "Vulkan",
-    0.09
+    0.2
   ],
   [
     "Hut",
     "Tornado",
-    0.13
+    0.29
   ],
   [
     "Handtuch",
     "Sternenhimmel",
-    0.12
+    0.26
   ],
   [
     "Kissen",
     "Gewitter",
-    0.13
+    0.28
   ],
   [
     "Decke",
     "Meteor",
-    0.11
+    0.24
   ],
   [
     "Schere",
     "Regenbogen",
-    0.12
+    0.27
   ],
   [
     "Bleistift",
     "Ebbe",
-    0.1
+    0.22
   ],
   [
     "Radiergummi",
     "Flut",
-    0.09
+    0.2
   ],
   [
     "Kleber",
     "Mondfinsternis",
-    0.09
+    0.19
   ],
   [
     "Lineal",
     "Sonnenwende",
-    0.1
+    0.23
   ],
   [
     "Heft",
     "Nebel",
-    0.14
+    0.3
   ],
   [
     "Ordner",
     "Blitzeis",
-    0.11
+    0.25
   ],
   [
     "Rucksack",
     "Polarlicht",
-    0.13
+    0.28
   ],
   [
     "Jacke",
     "Sandsturm",
-    0.14
+    0.32
   ],
   [
     "Schuh",
     "Erdbeben",
-    0.12
+    0.26
   ],
   [
     "Hose",
     "Tsunami",
-    0.1
+    0.23
   ],
   [
     "Mütze",
     "Hagel",
-    0.14
+    0.3
   ],
   [
     "Handschuh",
     "Lawine",
-    0.13
+    0.29
   ],
   [
     "Schal",
     "Dürre",
-    0.12
+    0.27
   ],
   [
     "Gürtel",
     "Springflut",
-    0.09
+    0.21
   ],
   [
     "Krawatte",
     "Sonnenfinsternis",
-    0.11
+    0.24
   ],
   [
     "Portemonnaie",
     "Windhose",
-    0.09
+    0.2
   ],
   [
     "Rechner",
     "Vulkangestein",
-    0.1
+    0.22
   ],
   [
     "Ladekabel",
     "Permafrost",
-    0.09
+    0.19
   ],
   [
     "Steckdose",
     "Korallenriff",
-    0.09
+    0.21
   ],
   [
     "Fernglas",
     "Sanddüne",
-    0.11
+    0.25
   ],
   [
     "Gans",
     "Hase",
-    0.45
+    0.71
   ],
   [
     "Hamster",
     "Schlange",
-    0.45
+    0.92
   ],
   [
     "Eidechse",
     "Eule",
-    0.45
+    0.9
   ],
   [
     "Zebra",
     "Falke",
-    0.45
+    0.9
   ],
   [
     "Hamster",
     "Alligator",
-    0.45
+    0.88
   ],
   [
     "Lama",
     "Nashorn",
-    0.62
+    0.25
   ],
   [
     "Krake",
     "Giraffe",
-    0.38
+    0.2
   ],
   [
     "Fuchs",
     "Schwan",
-    0.45
+    0.6
   ],
   [
     "Alligator",
     "Ente",
-    0.45
+    0.63
   ],
   [
     "Bär",
     "Nashorn",
-    0.62
+    0.54
   ],
   [
     "Bär",
     "Krokodil",
-    0.45
+    0.41
   ],
   [
     "Kamel",
     "Eule",
-    0.45
+    0.6
   ],
   [
     "Eichhörnchen",
     "Gans",
-    0.45
+    0.68
   ],
   [
     "Wal",
     "Ente",
-    0.38
+    0.73
   ],
   [
     "Eichhörnchen",
     "Falke",
-    0.45
+    0.89
   ],
   [
     "Salamander",
     "Pinguin",
-    0.45
+    0.35
   ],
   [
     "Zebra",
     "Wolf",
-    0.45
+    0.53
   ],
   [
     "Pinguin",
     "Hase",
-    0.45
+    0.24
   ],
   [
     "Panda",
     "Zebra",
-    0.62
+    0.41
   ],
   [
     "Hamster",
     "Gans",
-    0.45
+    0.75
   ],
   [
     "Salamander",
     "Nashorn",
-    0.45
+    0.31
   ],
   [
     "Affe",
     "Storch",
-    0.45
+    0.63
   ],
   [
     "Giraffe",
     "Dachs",
-    0.62
+    0.42
   ],
   [
     "Koala",
     "Hamster",
-    0.62
+    0.64
   ],
   [
     "Panda",
     "Delfin",
-    0.38
+    0.91
   ],
   [
     "Igel",
     "Kamel",
-    0.62
+    0.86
   ],
   [
     "Eichhörnchen",
     "Schwan",
-    0.45
+    0.88
   ],
   [
     "Krake",
     "Salamander",
-    0.38
+    0.9
   ],
   [
     "Krokodil",
     "Storch",
-    0.45
+    0.46
   ],
   [
     "Koala",
     "Hai",
-    0.38
+    0.21
   ],
   [
     "Reh",
     "Hase",
-    0.62
+    0.73
   ],
   [
     "Salamander",
     "Meerschweinchen",
-    0.45
+    0.55
   ],
   [
     "Löwe",
     "Hase",
-    0.62
+    0.57
   ],
   [
     "Alligator",
     "Gans",
-    0.45
+    0.26
   ],
   [
     "Eidechse",
     "Kamel",
-    0.45
+    0.64
   ],
   [
     "Frosch",
     "Eichhörnchen",
-    0.45
+    0.26
   ],
   [
     "Krokodil",
     "Krake",
-    0.38
+    0.76
   ],
   [
     "Kröte",
     "Lama",
-    0.45
+    0.54
   ],
   [
     "Eule",
     "Schildkröte",
-    0.45
+    0.75
   ],
   [
     "Giraffe",
     "Bär",
-    0.62
+    0.87
   ],
   [
     "Bär",
     "Wal",
-    0.38
+    0.51
   ],
   [
     "Eule",
     "Kamel",
-    0.45
+    0.79
   ],
   [
     "Delfin",
     "Nilpferd",
-    0.38
+    0.72
   ],
   [
     "Salamander",
     "Frosch",
-    0.68
+    0.56
   ],
   [
     "Hase",
     "Bär",
-    0.62
+    0.44
   ],
   [
     "Kröte",
     "Meerschweinchen",
-    0.45
+    0.6
   ],
   [
     "Eule",
     "Chamäleon",
-    0.45
+    0.8
   ],
   [
     "Tiger",
     "Biber",
-    0.62
+    0.69
   ],
   [
     "Affe",
     "Känguru",
-    0.62
+    0.4
   ],
   [
     "Igel",
     "Delfin",
-    0.38
+    0.4
   ],
   [
     "Eichhörnchen",
     "Eidechse",
-    0.45
+    0.73
   ],
   [
     "Ratte",
     "Maus",
-    0.45
+    0.28
   ],
   [
     "Ratte",
     "Falke",
-    0.45
+    0.44
   ],
   [
     "Adler",
     "Hirsch",
-    0.45
+    0.57
   ],
   [
     "Tiger",
     "Maus",
-    0.45
+    0.74
   ],
   [
     "Känguru",
     "Nilpferd",
-    0.45
+    0.24
   ],
   [
     "Dachs",
     "Delfin",
-    0.38
+    0.23
   ],
   [
     "Adler",
     "Bär",
-    0.45
+    0.73
   ],
   [
     "Eule",
     "Kröte",
-    0.45
+    0.67
   ],
   [
     "Meerschweinchen",
@@ -1267,197 +1267,197 @@
   [
     "Ratte",
     "Alpaka",
-    0.62
+    0.93
   ],
   [
     "Hai",
     "Maus",
-    0.38
+    0.34
   ],
   [
     "Reh",
     "Seepferdchen",
-    0.38
+    0.36
   ],
   [
     "Ratte",
     "Dachs",
-    0.62
+    0.76
   ],
   [
     "Affe",
     "Dachs",
-    0.62
+    0.84
   ],
   [
     "Tiger",
     "Hase",
-    0.62
+    0.59
   ],
   [
     "Alpaka",
     "Hase",
-    0.62
+    0.61
   ],
   [
     "Kröte",
     "Panda",
-    0.45
+    0.21
   ],
   [
     "Krokodil",
     "Fuchs",
-    0.45
+    0.95
   ],
   [
     "Dachs",
     "Alpaka",
-    0.62
+    0.94
   ],
   [
     "Schriftsteller",
     "Jäger",
-    0.25
+    0.22
   ],
   [
     "Programmierer",
     "Architekt",
-    0.25
+    0.74
   ],
   [
     "Forscher",
     "Dachdecker",
-    0.25
+    0.78
   ],
   [
     "Schriftsteller",
     "Klempner",
-    0.25
+    0.23
   ],
   [
     "Winzer",
     "Dachdecker",
-    0.25
+    0.4
   ],
   [
     "Schuster",
     "Schriftsteller",
-    0.25
+    0.6
   ],
   [
     "Architekt",
     "Metzger",
-    0.25
+    0.42
   ],
   [
     "Musiker",
     "Regisseur",
-    0.58
+    0.92
   ],
   [
     "Journalist",
     "Tischler",
-    0.25
+    0.93
   ],
   [
     "Uhrmacher",
     "Tischler",
-    0.58
+    0.65
   ],
   [
     "Tischler",
     "Klempner",
-    0.52
+    0.74
   ],
   [
     "Fotograf",
     "Schuster",
-    0.25
+    0.51
   ],
   [
     "Zimmermann",
     "Metzger",
-    0.25
+    0.84
   ],
   [
     "Maurer",
     "Schuster",
-    0.52
+    0.74
   ],
   [
     "Schuster",
     "Juwelier",
-    0.58
+    0.4
   ],
   [
     "Forscher",
     "Uhrmacher",
-    0.25
+    0.48
   ],
   [
     "Professor",
     "Tischler",
-    0.25
+    0.34
   ],
   [
     "Metzger",
     "Schriftsteller",
-    0.25
+    0.57
   ],
   [
     "Stewardess",
     "Zimmermann",
-    0.25
+    0.58
   ],
   [
     "Programmierer",
     "Pilot",
-    0.25
+    0.47
   ],
   [
     "Musiker",
     "Landwirt",
-    0.25
+    0.96
   ],
   [
     "Winzer",
     "Wissenschaftler",
-    0.25
+    0.32
   ],
   [
     "Schneider",
     "Schauspieler",
-    0.25
+    0.27
   ],
   [
     "Schauspieler",
     "Jäger",
-    0.25
+    0.24
   ],
   [
     "Fischer",
     "Designer",
-    0.25
+    0.71
   ],
   [
     "Landwirt",
     "Architekt",
-    0.25
+    0.76
   ],
   [
     "Architekt",
     "Gärtner",
-    0.25
+    0.79
   ],
   [
     "Schuster",
     "Zimmermann",
-    0.52
+    0.96
   ],
   [
     "Wissenschaftler",
     "Fotograf",
-    0.25
+    0.88
   ],
   [
     "Regisseur",
@@ -1467,242 +1467,242 @@
   [
     "Professor",
     "Förster",
-    0.25
+    0.96
   ],
   [
     "Schlosser",
     "Schneider",
-    0.58
+    0.32
   ],
   [
     "Klempner",
     "Regisseur",
-    0.25
+    0.51
   ],
   [
     "Architekt",
     "Bergmann",
-    0.25
+    0.88
   ],
   [
     "Maurer",
     "Wissenschaftler",
-    0.25
+    0.95
   ],
   [
     "Winzer",
     "Ingenieur",
-    0.25
+    0.78
   ],
   [
     "Übersetzer",
     "Bauarbeiter",
-    0.25
+    0.91
   ],
   [
     "Forscher",
     "Journalist",
-    0.25
+    0.22
   ],
   [
     "Regisseur",
     "Designer",
-    0.25
+    0.26
   ],
   [
     "Uhrmacher",
     "Programmierer",
-    0.25
+    0.77
   ],
   [
     "Professor",
     "Elektriker",
-    0.5
+    0.94
   ],
   [
     "Tischler",
     "Designer",
-    0.5
+    0.55
   ],
   [
     "Metzger",
     "Fotograf",
-    0.25
+    0.62
   ],
   [
     "Schneider",
     "Juwelier",
-    0.58
+    0.37
   ],
   [
     "Schuster",
     "Pilot",
-    0.25
+    0.69
   ],
   [
     "Kapitän",
     "Designer",
-    0.25
+    0.43
   ],
   [
     "Bergmann",
     "Schriftsteller",
-    0.25
+    0.57
   ],
   [
     "Klempner",
     "Schriftsteller",
-    0.25
+    0.93
   ],
   [
     "Professor",
     "Jäger",
-    0.25
+    0.71
   ],
   [
     "Gärtner",
     "Schuster",
-    0.25
+    0.55
   ],
   [
     "Forscher",
     "Dolmetscher",
-    0.25
+    0.87
   ],
   [
     "Übersetzer",
     "Metzger",
-    0.25
+    0.89
   ],
   [
     "Kapitän",
     "Tischler",
-    0.25
+    0.7
   ],
   [
     "Pilot",
     "Programmierer",
-    0.25
+    0.7
   ],
   [
     "Gärtner",
     "Maler",
-    0.25
+    0.6
   ],
   [
     "Designer",
     "Forscher",
-    0.25
+    0.5
   ],
   [
     "Professor",
     "Maler",
-    0.25
+    0.92
   ],
   [
     "Förster",
     "Architekt",
-    0.25
+    0.79
   ],
   [
     "Maler",
     "Dachdecker",
-    0.25
+    0.28
   ],
   [
     "Musiker",
     "Maurer",
-    0.25
+    0.75
   ],
   [
     "Dolch",
     "Rahmen",
-    0.25
+    0.79
   ],
   [
     "Rahmen",
     "Schrank",
-    0.5
+    0.44
   ],
   [
     "Axt",
     "Helm",
-    0.25
+    0.45
   ],
   [
     "Bild",
     "Säge",
-    0.25
+    0.41
   ],
   [
     "Regal",
     "Meißel",
-    0.25
+    0.44
   ],
   [
     "Portemonnaie",
     "Teppich",
-    0.25
+    0.87
   ],
   [
     "Zepter",
     "Vorhang",
-    0.25
+    0.76
   ],
   [
     "Vase",
     "Regal",
-    0.5
+    0.63
   ],
   [
     "Dolch",
     "Regenschirm",
-    0.25
+    0.95
   ],
   [
     "Axt",
     "Zange",
-    0.62
+    0.91
   ],
   [
     "Lanze",
     "Regenschirm",
-    0.25
+    0.46
   ],
   [
     "Schlüsselbund",
     "Rucksack",
-    0.6
+    0.79
   ],
   [
     "Pfeil",
     "Dolch",
-    0.62
+    0.31
   ],
   [
     "Halskette",
     "Schrank",
-    0.25
+    0.62
   ],
   [
     "Kerze",
     "Pinsel",
-    0.25
+    0.88
   ],
   [
     "Ring",
     "Palette",
-    0.25
+    0.5
   ],
   [
     "Vase",
     "Dolch",
-    0.25
+    0.79
   ],
   [
     "Rucksack",
     "Dolch",
-    0.25
+    0.77
   ],
   [
     "Pfeil",
@@ -1712,1791 +1712,1791 @@
   [
     "Ring",
     "Teppich",
-    0.25
+    0.2
   ],
   [
     "Pfeil",
     "Kerze",
-    0.25
+    0.48
   ],
   [
     "Bogen",
     "Sonnenbrille",
-    0.25
+    0.83
   ],
   [
     "Rucksack",
     "Kerze",
-    0.25
+    0.53
   ],
   [
     "Säge",
     "Regenschirm",
-    0.25
+    0.21
   ],
   [
     "Axt",
     "Sonnenbrille",
-    0.25
+    0.43
   ],
   [
     "Portemonnaie",
     "Dolch",
-    0.25
+    0.39
   ],
   [
     "Regal",
     "Truhe",
-    0.25
+    0.91
   ],
   [
     "Bogen",
     "Schild",
-    0.25
+    0.72
   ],
   [
     "Krone",
     "Schwert",
-    0.25
+    0.82
   ],
   [
     "Sessel",
     "Armband",
-    0.25
+    0.46
   ],
   [
     "Spiegel",
     "Tasche",
-    0.25
+    0.47
   ],
   [
     "Halskette",
     "Regenschirm",
-    0.52
+    0.76
   ],
   [
     "Meißel",
     "Kerze",
-    0.25
+    0.76
   ],
   [
     "Sonnenbrille",
     "Vase",
-    0.25
+    0.71
   ],
   [
     "Halskette",
     "Rahmen",
-    0.25
+    0.74
   ],
   [
     "Axt",
     "Armband",
-    0.25
+    0.75
   ],
   [
     "Helm",
     "Regal",
-    0.25
+    0.42
   ],
   [
     "Bohrer",
     "Rucksack",
-    0.25
+    0.31
   ],
   [
     "Rüstung",
     "Bogen",
-    0.5
+    0.53
   ],
   [
     "Halskette",
     "Dolch",
-    0.25
+    0.96
   ],
   [
     "Bild",
     "Truhe",
-    0.25
+    0.57
   ],
   [
     "Ring",
     "Regenschirm",
-    0.52
+    0.49
   ],
   [
     "Regenschirm",
     "Schild",
-    0.25
+    0.56
   ],
   [
     "Bohrer",
     "Schild",
-    0.25
+    0.93
   ],
   [
     "Kerze",
     "Rucksack",
-    0.25
+    0.65
   ],
   [
     "Bohrer",
     "Portemonnaie",
-    0.25
+    0.56
   ],
   [
     "Bogen",
     "Helm",
-    0.5
+    0.87
   ],
   [
     "Teppich",
     "Koffer",
-    0.25
+    0.71
   ],
   [
     "Schlüsselbund",
     "Zepter",
-    0.25
+    0.78
   ],
   [
     "Regal",
     "Rüstung",
-    0.25
+    0.8
   ],
   [
     "Rucksack",
     "Schwert",
-    0.25
+    0.81
   ],
   [
     "Dolch",
     "Sonnenbrille",
-    0.25
+    0.57
   ],
   [
     "Axt",
     "Säge",
-    0.62
+    0.66
   ],
   [
     "Rucksack",
     "Teppich",
-    0.25
+    0.73
   ],
   [
     "Schild",
     "Bogen",
-    0.25
+    0.56
   ],
   [
     "Regal",
     "Bild",
-    0.25
+    0.94
   ],
   [
     "Lanze",
     "Meißel",
-    0.25
+    0.51
   ],
   [
     "Säge",
     "Pfeil",
-    0.25
+    0.22
   ],
   [
     "Vorhang",
     "Portemonnaie",
-    0.25
+    0.77
   ],
   [
     "Vorhang",
     "Pfeil",
-    0.25
+    0.94
   ],
   [
     "Freude",
     "Sehnsucht",
-    0.42
+    0.92
   ],
   [
     "Traurigkeit",
     "Begeisterung",
-    0.28
+    0.48
   ],
   [
     "Begeisterung",
     "Stolz",
-    0.42
+    0.58
   ],
   [
     "Erleichterung",
     "Angst",
-    0.28
+    0.89
   ],
   [
     "Zufriedenheit",
     "Vertrauen",
-    0.42
+    0.73
   ],
   [
     "Frustration",
     "Freude",
-    0.28
+    0.89
   ],
   [
     "Hoffnung",
     "Stolz",
-    0.42
+    0.26
   ],
   [
     "Zärtlichkeit",
     "Erwartung",
-    0.3
+    0.54
   ],
   [
     "Erwartung",
     "Freude",
-    0.3
+    0.26
   ],
   [
     "Scham",
     "Traurigkeit",
-    0.42
+    0.91
   ],
   [
     "Langeweile",
     "Begeisterung",
-    0.28
+    0.55
   ],
   [
     "Langeweile",
     "Dankbarkeit",
-    0.28
+    0.22
   ],
   [
     "Traurigkeit",
     "Neugier",
-    0.28
+    0.76
   ],
   [
     "Langeweile",
     "Mitleid",
-    0.28
+    0.81
   ],
   [
     "Verwirrung",
     "Fernweh",
-    0.28
+    0.54
   ],
   [
     "Vertrauen",
     "Scham",
-    0.28
+    0.34
   ],
   [
     "Hoffnung",
     "Erwartung",
-    0.3
+    0.82
   ],
   [
     "Angst",
     "Frustration",
-    0.42
+    0.54
   ],
   [
     "Erwartung",
     "Verzweiflung",
-    0.3
+    0.63
   ],
   [
     "Frustration",
     "Überraschung",
-    0.3
+    0.2
   ],
   [
     "Freude",
     "Frustration",
-    0.28
+    0.86
   ],
   [
     "Traurigkeit",
     "Ekel",
-    0.42
+    0.83
   ],
   [
     "Zärtlichkeit",
     "Schuld",
-    0.28
+    0.49
   ],
   [
     "Leidenschaft",
     "Ekel",
-    0.28
+    0.73
   ],
   [
     "Leidenschaft",
     "Gelassenheit",
-    0.42
+    0.31
   ],
   [
     "Langeweile",
     "Verwirrung",
-    0.42
+    0.75
   ],
   [
     "Schuld",
     "Hoffnung",
-    0.28
+    0.7
   ],
   [
     "Stolz",
     "Wut",
-    0.28
+    0.83
   ],
   [
     "Angst",
     "Ungeduld",
-    0.42
+    0.22
   ],
   [
     "Neid",
     "Erleichterung",
-    0.28
+    0.46
   ],
   [
     "Dankbarkeit",
     "Wut",
-    0.28
+    0.91
   ],
   [
     "Neid",
     "Ungeduld",
-    0.42
+    0.22
   ],
   [
     "Neid",
     "Verwirrung",
-    0.42
+    0.31
   ],
   [
     "Dankbarkeit",
     "Erwartung",
-    0.3
+    0.45
   ],
   [
     "Traurigkeit",
     "Mitleid",
-    0.28
+    0.86
   ],
   [
     "Leidenschaft",
     "Traurigkeit",
-    0.28
+    0.8
   ],
   [
     "Zärtlichkeit",
     "Frustration",
-    0.28
+    0.74
   ],
   [
     "Frustration",
     "Traurigkeit",
-    0.42
+    0.8
   ],
   [
     "Schuld",
     "Leidenschaft",
-    0.28
+    0.7
   ],
   [
     "Erleichterung",
     "Frustration",
-    0.28
+    0.26
   ],
   [
     "Wut",
     "Freude",
-    0.28
+    0.32
   ],
   [
     "Neugier",
     "Hoffnung",
-    0.42
+    0.23
   ],
   [
     "Stolz",
     "Leidenschaft",
-    0.42
+    0.59
   ],
   [
     "Leidenschaft",
     "Verzweiflung",
-    0.28
+    0.81
   ],
   [
     "Verwirrung",
     "Scham",
-    0.42
+    0.45
   ],
   [
     "Wurst",
     "Gurke",
-    0.32
+    0.74
   ],
   [
     "Salat",
     "Wurst",
-    0.32
+    0.87
   ],
   [
     "Melone",
     "Gurke",
-    0.32
+    0.62
   ],
   [
     "Ei",
     "Torte",
-    0.32
+    0.53
   ],
   [
     "Käse",
     "Kirsche",
-    0.32
+    0.22
   ],
   [
     "Himbeere",
     "Avocado",
-    0.72
+    0.91
   ],
   [
     "Butter",
     "Ananas",
-    0.32
+    0.76
   ],
   [
     "Schinken",
     "Gurke",
-    0.32
+    0.46
   ],
   [
     "Pflaume",
     "Knoblauch",
-    0.32
+    0.78
   ],
   [
     "Salat",
     "Paprika",
-    0.68
+    0.34
   ],
   [
     "Gurke",
     "Ananas",
-    0.32
+    0.72
   ],
   [
     "Marmelade",
     "Mango",
-    0.32
+    0.76
   ],
   [
     "Gurke",
     "Schokolade",
-    0.32
+    0.62
   ],
   [
     "Kirsche",
     "Milch",
-    0.32
+    0.21
   ],
   [
     "Ei",
     "Tomate",
-    0.32
+    0.47
   ],
   [
     "Birne",
     "Knoblauch",
-    0.32
+    0.71
   ],
   [
     "Wurst",
     "Marmelade",
-    0.32
+    0.71
   ],
   [
     "Schokolade",
     "Ananas",
-    0.32
+    0.55
   ],
   [
     "Apfel",
     "Kirsche",
-    0.72
+    0.63
   ],
   [
     "Spinat",
     "Avocado",
-    0.32
+    0.89
   ],
   [
     "Birne",
     "Avocado",
-    0.72
+    0.2
   ],
   [
     "Avocado",
     "Apfel",
-    0.72
+    0.38
   ],
   [
     "Salat",
     "Ananas",
-    0.32
+    0.51
   ],
   [
     "Birne",
     "Honig",
-    0.32
+    0.51
   ],
   [
     "Kirsche",
     "Nudeln",
-    0.32
+    0.53
   ],
   [
     "Kuchen",
     "Himbeere",
-    0.32
+    0.58
   ],
   [
     "Zwiebel",
     "Brot",
-    0.32
+    0.26
   ],
   [
     "Brot",
     "Traube",
-    0.32
+    0.78
   ],
   [
     "Spinat",
     "Brot",
-    0.32
+    0.66
   ],
   [
     "Salat",
     "Mango",
-    0.32
+    0.76
   ],
   [
     "Apfel",
     "Käse",
-    0.32
+    0.24
   ],
   [
     "Himbeere",
     "Nudeln",
-    0.32
+    0.57
   ],
   [
     "Melone",
     "Orange",
-    0.32
+    0.92
   ],
   [
     "Nudeln",
     "Himbeere",
-    0.32
+    0.68
   ],
   [
     "Schokolade",
     "Melone",
-    0.32
+    0.88
   ],
   [
     "Keks",
     "Melone",
-    0.32
+    0.21
   ],
   [
     "Honig",
     "Mango",
-    0.32
+    0.82
   ],
   [
     "Birne",
     "Ei",
-    0.32
+    0.79
   ],
   [
     "Reis",
     "Himbeere",
-    0.32
+    0.26
   ],
   [
     "Melone",
     "Tomate",
-    0.32
+    0.62
   ],
   [
     "Mango",
     "Ei",
-    0.32
+    0.73
   ],
   [
     "Nudeln",
     "Keks",
-    0.32
+    0.75
   ],
   [
     "Zitrone",
     "Gurke",
-    0.32
+    0.27
   ],
   [
     "Mango",
     "Birne",
-    0.72
+    0.46
   ],
   [
     "Birne",
     "Karotte",
-    0.32
+    0.49
   ],
   [
     "Torte",
     "Kartoffel",
-    0.32
+    0.20
   ],
   [
     "Gurke",
     "Käse",
-    0.32
+    0.30
   ],
   [
     "Schokolade",
     "Butter",
-    0.32
+    0.7
   ],
   [
     "Honig",
     "Milch",
-    0.32
+    0.81
   ],
   [
     "Milch",
     "Ananas",
-    0.32
+    0.38
   ],
   [
     "Erdbeere",
     "Orange",
-    0.6
+    0.75
   ],
   [
     "Butter",
     "Schokolade",
-    0.32
+    0.51
   ],
   [
     "Orange",
     "Himbeere",
-    0.32
+    0.23
   ],
   [
     "Schokolade",
     "Himbeere",
-    0.32
+    0.91
   ],
   [
     "Reis",
     "Orange",
-    0.32
+    0.86
   ],
   [
     "Schinken",
     "Pflaume",
-    0.32
+    0.84
   ],
   [
     "Honig",
     "Knoblauch",
-    0.32
+    0.28
   ],
   [
     "Paprika",
     "Melone",
-    0.32
+    0.79
   ],
   [
     "Milch",
     "Zitrone",
-    0.32
+    0.84
   ],
   [
     "Ei",
     "Avocado",
-    0.32
+    0.62
   ],
   [
     "Zocken",
     "Trollen",
-    0.2
+    0.73
   ],
   [
     "Cancel",
     "Flexen",
-    0.2
+    0.55
   ],
   [
     "Trollen",
     "Highkey",
-    0.2
+    0.81
   ],
   [
     "Ghosten",
     "Slay",
-    0.2
+    0.31
   ],
   [
     "Lowkey",
     "Simpen",
-    0.2
+    0.24
   ],
   [
     "Lit",
     "Sus",
-    0.2
+    0.67
   ],
   [
     "Ghosten",
     "Basic",
-    0.2
+    0.57
   ],
   [
     "Savage",
     "Simpen",
-    0.2
+    0.84
   ],
   [
     "Sus",
     "Vibe",
-    0.2
+    0.81
   ],
   [
     "Fomo",
     "Zocken",
-    0.2
+    0.8
   ],
   [
     "Rizz",
     "Stalken",
-    0.2
+    0.35
   ],
   [
     "Toxic",
     "Lowkey",
-    0.2
+    0.63
   ],
   [
     "Trollen",
     "Lame",
-    0.2
+    0.85
   ],
   [
     "Vibe",
     "Stalken",
-    0.2
+    0.58
   ],
   [
     "Lit",
     "Simpen",
-    0.2
+    0.33
   ],
   [
     "Zocken",
     "Salty",
-    0.2
+    0.5
   ],
   [
     "Cringe",
     "Sus",
-    0.2
+    0.71
   ],
   [
     "Simpen",
     "Basic",
-    0.2
+    0.78
   ],
   [
     "Yolo",
     "Flexen",
-    0.2
+    0.96
   ],
   [
     "Zocken",
     "Awkward",
-    0.2
+    0.86
   ],
   [
     "Toxic",
     "Vibe",
-    0.2
+    0.45
   ],
   [
     "Cancel",
     "Savage",
-    0.2
+    0.7
   ],
   [
     "Toxic",
     "Bruh",
-    0.2
+    0.57
   ],
   [
     "Toxic",
     "Sus",
-    0.2
+    0.68
   ],
   [
     "Lame",
     "Yolo",
-    0.2
+    0.83
   ],
   [
     "Rizz",
     "Basic",
-    0.2
+    0.87
   ],
   [
     "Flexen",
     "Rizz",
-    0.4
+    0.21
   ],
   [
     "Salty",
     "Basic",
-    0.2
+    0.54
   ],
   [
     "Bodyshaming",
     "Chillen",
-    0.2
+    0.62
   ],
   [
     "Toxic",
     "Bodyshaming",
-    0.55
+    0.33
   ],
   [
     "Stalken",
     "Sigma",
-    0.2
+    0.71
   ],
   [
     "Highkey",
     "Lame",
-    0.2
+    0.44
   ],
   [
     "Cringe",
     "Cancel",
-    0.2
+    0.44
   ],
   [
     "Fomo",
     "Sigma",
-    0.2
+    0.39
   ],
   [
     "Zocken",
     "Slay",
-    0.2
+    0.79
   ],
   [
     "Slay",
     "Trollen",
-    0.2
+    0.48
   ],
   [
     "Lowkey",
     "Ghosten",
-    0.2
+    0.35
   ],
   [
     "Basic",
     "Random",
-    0.2
+    0.65
   ],
   [
     "Lit",
     "Ghosten",
-    0.2
+    0.83
   ],
   [
     "Highkey",
     "Chillen",
-    0.2
+    0.91
   ],
   [
     "Lag",
     "Boss",
-    0.22
+    0.28
   ],
   [
     "Respawn",
     "Lag",
-    0.22
+    0.36
   ],
   [
     "Clan",
     "Singleplayer",
-    0.45
+    0.73
   ],
   [
     "Gilde",
     "Leaderboard",
-    0.22
+    0.63
   ],
   [
     "Server",
     "Speedhack",
-    0.22
+    0.24
   ],
   [
     "Speedhack",
     "Highscore",
-    0.22
+    0.66
   ],
   [
     "Controller",
     "Frame",
-    0.5
+    0.82
   ],
   [
     "DLC",
     "Respawn",
-    0.22
+    0.78
   ],
   [
     "Glitch",
     "Gilde",
-    0.22
+    0.7
   ],
   [
     "Camper",
     "Update",
-    0.22
+    0.23
   ],
   [
     "Griefer",
     "Ping",
-    0.22
+    0.85
   ],
   [
     "Ping",
     "Patch",
-    0.22
+    0.63
   ],
   [
     "Frame",
     "Noob",
-    0.22
+    0.92
   ],
   [
     "Multiplayer",
     "Respawn",
-    0.45
+    0.46
   ],
   [
     "Clan",
     "Server",
-    0.22
+    0.95
   ],
   [
     "Gilde",
     "Ping",
-    0.22
+    0.21
   ],
   [
     "Respawn",
     "Camper",
-    0.22
+    0.96
   ],
   [
     "Gilde",
     "DLC",
-    0.22
+    0.32
   ],
   [
     "Mod",
     "Patch",
-    0.48
+    0.59
   ],
   [
     "Griefer",
     "Camper",
-    0.6
+    0.42
   ],
   [
     "Level",
     "Achievement",
-    0.68
+    0.74
   ],
   [
     "Multiplayer",
     "Boss",
-    0.22
+    0.4
   ],
   [
     "Mod",
     "Multiplayer",
-    0.22
+    0.4
   ],
   [
     "Update",
     "Highscore",
-    0.22
+    0.55
   ],
   [
     "Frame",
     "Speedrun",
-    0.22
+    0.31
   ],
   [
     "Highscore",
     "Mod",
-    0.22
+    0.91
   ],
   [
     "Noob",
     "Cheat",
-    0.22
+    0.64
   ],
   [
     "Speedhack",
     "Pro",
-    0.22
+    0.55
   ],
   [
     "Controller",
     "Speedrun",
-    0.22
+    0.55
   ],
   [
     "Mod",
     "Noob",
-    0.22
+    0.91
   ],
   [
     "Konsole",
     "Ping",
-    0.22
+    0.34
   ],
   [
     "Konsole",
     "Glitch",
-    0.22
+    0.82
   ],
   [
     "Boss",
     "Glitch",
-    0.22
+    0.23
   ],
   [
     "Respawn",
     "Ping",
-    0.22
+    0.72
   ],
   [
     "Patch",
     "Mod",
-    0.48
+    0.94
   ],
   [
     "Ping",
     "Cheat",
-    0.22
+    0.42
   ],
   [
     "Multiplayer",
     "Camper",
-    0.46
+    0.57
   ],
   [
     "Clan",
     "Frame",
-    0.22
+    0.96
   ],
   [
     "Speedrun",
     "Multiplayer",
-    0.46
+    0.74
   ],
   [
     "Clan",
     "Cheat",
-    0.22
+    0.57
   ],
   [
     "Clan",
     "Patch",
-    0.22
+    0.76
   ],
   [
     "Cheat",
     "Update",
-    0.22
+    0.44
   ],
   [
     "Patch",
     "Noob",
-    0.22
+    0.75
   ],
   [
     "Griefer",
     "Leaderboard",
-    0.22
+    0.43
   ],
   [
     "Frame",
     "Achievement",
-    0.22
+    0.76
   ],
   [
     "Eichhörnchen",
     "Stolz",
-    0.22
+    0.52
   ],
   [
     "Frosch",
     "Begeisterung",
-    0.16
+    0.35
   ],
   [
     "Hirsch",
     "Stolz",
-    0.22
+    0.8
   ],
   [
     "Meerschweinchen",
     "Frustration",
-    0.22
+    0.72
   ],
   [
     "Falke",
     "Verwirrung",
-    0.22
+    0.77
   ],
   [
     "Igel",
     "Erwartung",
-    0.22
+    0.73
   ],
   [
     "Dachs",
     "Angst",
-    0.22
+    0.79
   ],
   [
     "Hirsch",
     "Mitleid",
-    0.22
+    0.72
   ],
   [
     "Ente",
     "Verwirrung",
-    0.22
+    0.74
   ],
   [
     "Bär",
     "Begeisterung",
-    0.1
+    0.23
   ],
   [
     "Hai",
     "Hoffnung",
-    0.22
+    0.9
   ],
   [
     "Maus",
     "Dankbarkeit",
-    0.22
+    0.6
   ],
   [
     "Lama",
     "Scham",
-    0.22
+    0.53
   ],
   [
     "Nilpferd",
     "Verwirrung",
-    0.22
+    0.64
   ],
   [
     "Seepferdchen",
     "Neugier",
-    0.22
+    0.64
   ],
   [
     "Qualle",
     "Fernweh",
-    0.22
+    0.8
   ],
   [
     "Eichhörnchen",
     "Begeisterung",
-    0.21
+    0.46
   ],
   [
     "Koala",
     "Ekel",
-    0.22
+    0.59
   ],
   [
     "Gans",
     "Stolz",
-    0.22
+    0.52
   ],
   [
     "Qualle",
     "Erwartung",
-    0.2
+    0.44
   ],
   [
     "Lama",
     "Ekel",
-    0.22
+    0.76
   ],
   [
     "Frosch",
     "Freude",
-    0.22
+    0.58
   ],
   [
     "Koala",
     "Langeweile",
-    0.1
+    0.22
   ],
   [
     "Alpaka",
     "Schuld",
-    0.03
+    0.05
   ],
   [
     "Salamander",
     "Leidenschaft",
-    0.09
+    0.2
   ],
   [
     "Schlange",
     "Vertrauen",
-    0.22
+    0.81
   ],
   [
     "Hirsch",
     "Gelassenheit",
-    0.22
+    0.82
   ],
   [
     "Frosch",
     "Ungeduld",
-    0.22
+    0.77
   ],
   [
     "Tiger",
     "Begeisterung",
-    0.17
+    0.37
   ],
   [
     "Pinguin",
     "Dankbarkeit",
-    0.18
+    0.39
   ],
   [
     "Regisseur",
     "Schild",
-    0.22
+    0.68
   ],
   [
     "Bauarbeiter",
     "Krone",
-    0.22
+    0.55
   ],
   [
     "Gärtner",
     "Schild",
-    0.22
+    0.86
   ],
   [
     "Fischer",
     "Krone",
-    0.22
+    0.52
   ],
   [
     "Pilot",
     "Schild",
-    0.11
+    0.25
   ],
   [
     "Wissenschaftler",
     "Schild",
-    0.22
+    0.53
   ],
   [
     "Zimmermann",
     "Tasche",
-    0.22
+    0.61
   ],
   [
     "Wissenschaftler",
     "Rahmen",
-    0.22
+    0.79
   ],
   [
     "Fischer",
     "Pfeil",
-    0.12
+    0.27
   ],
   [
     "Schriftsteller",
     "Lanze",
-    0.22
+    0.82
   ],
   [
     "Übersetzer",
     "Schwert",
-    0.22
+    0.69
   ],
   [
     "Regisseur",
     "Lanze",
-    0.22
+    0.94
   ],
   [
     "Übersetzer",
     "Krone",
-    0.22
+    0.74
   ],
   [
     "Konditor",
     "Dolch",
-    0.22
+    0.62
   ],
   [
     "Landwirt",
     "Rahmen",
-    0.13
+    0.28
   ],
   [
     "Klempner",
     "Teppich",
-    0.21
+    0.47
   ],
   [
     "Schriftsteller",
     "Säge",
-    0.13
+    0.29
   ],
   [
     "Ingenieur",
     "Sessel",
-    0.17
+    0.38
   ],
   [
     "Dolmetscher",
     "Regenschirm",
-    0.22
+    0.61
   ],
   [
     "Wissenschaftler",
     "Koffer",
-    0.09
+    0.2
   ],
   [
     "Musiker",
     "Rucksack",
-    0.12
+    0.27
   ],
   [
     "Schauspieler",
     "Palette",
-    0.19
+    0.42
   ],
   [
     "Maler",
     "Bohrer",
-    0.21
+    0.46
   ],
   [
     "Designer",
     "Dolch",
-    0.22
+    0.6
   ],
   [
     "Metzger",
     "Spiegel",
-    0.22
+    0.55
   ],
   [
     "Wissenschaftler",
     "Bild",
-    0.22
+    0.61
   ],
   [
     "Konditor",
     "Pfeil",
-    0.12
+    0.26
   ],
   [
     "Forscher",
     "Dolch",
-    0.22
+    0.78
   ],
   [
     "Ingenieur",
     "Truhe",
-    0.18
+    0.39
   ],
   [
     "Schlosser",
     "Dolch",
-    0.22
+    0.66
   ],
   [
     "Salat",
     "Dankbarkeit",
-    0.03
+    0.68
   ],
   [
     "Erdbeere",
     "Ekel",
-    0.03
+    0.62
   ],
   [
     "Banane",
     "Freude",
-    0.03
+    0.63
   ],
   [
     "Brokkoli",
     "Sehnsucht",
-    0.09
+    0.25
   ],
   [
     "Honig",
     "Erleichterung",
-    0.14
+    0.31
   ],
   [
     "Brot",
     "Begeisterung",
-    0.22
+    0.86
   ],
   [
     "Salat",
     "Schuld",
-    0.05
+    0.6
   ],
   [
     "Avocado",
     "Scham",
-    0.05
+    0.58
   ],
   [
     "Torte",
     "Traurigkeit",
-    0.05
+    0.36
   ],
   [
     "Honig",
     "Mitleid",
-    0.05
+    0.84
   ],
   [
     "Schokolade",
     "Neid",
-    0.12
+    0.26
   ],
   [
     "Pflaume",
     "Schuld",
-    0.22
+    0.8
   ],
   [
     "Orange",
     "Zufriedenheit",
-    0.09
+    0.21
   ],
   [
     "Birne",
     "Mitleid",
-    0.21
+    0.47
   ],
   [
     "Kuchen",
     "Zufriedenheit",
-    0.22
+    0.89
   ],
   [
     "Apfel",
     "Traurigkeit",
-    0.22
+    0.83
   ],
   [
     "Wurst",
     "Erleichterung",
-    0.22
+    0.65
   ],
   [
     "Regisseur",
     "Meerschweinchen",
-    0.08
+    0.18
   ],
   [
     "Tiger",
     "Adler",
-    0.08
+    0.18
   ],
   [
     "Birne",
     "Storch",
-    0.11
+    0.25
   ],
   [
     "Tischler",
     "Lame",
-    0.07
+    0.16
   ],
   [
     "Alpaka",
     "Delfin",
-    0.09
+    0.21
   ],
   [
     "Zepter",
     "Random",
-    0.12
+    0.27
   ],
   [
     "Armband",
     "Truhe",
-    0.09
+    0.21
   ],
   [
     "Tiger",
     "Erleichterung",
-    0.07
+    0.16
   ],
   [
     "Wurst",
     "Birne",
-    0.1
+    0.22
   ],
   [
     "Regisseur",
     "Frustration",
-    0.09
+    0.19
   ],
   [
     "Schwert",
     "Hamster",
-    0.08
+    0.18
   ],
   [
     "Erwartung",
     "Flexen",
-    0.09
+    0.21
   ],
   [
     "Pilot",
     "Loot",
-    0.13
+    0.29
   ],
   [
     "Feile",
     "Überraschung",
-    0.08
+    0.18
   ],
   [
     "Kamel",
     "Hirsch",
-    0.1
+    0.23
   ],
   [
     "Koffer",
     "Wut",
-    0.11
+    0.24
   ],
   [
     "Kapitän",
     "Marmelade",
-    0.07
+    0.15
   ],
   [
     "Juwelier",
     "Traube",
-    0.07
+    0.16
   ],
   [
     "Hamster",
     "Birne",
-    0.08
+    0.17
   ],
   [
     "Halskette",
     "Maurer",
-    0.09
+    0.2
   ],
   [
     "Schriftsteller",
     "Himbeere",
-    0.08
+    0.18
   ],
   [
     "DLC",
     "Armband",
-    0.09
+    0.21
   ],
   [
     "Regisseur",
     "Schlosser",
-    0.09
+    0.2
   ],
   [
     "Boss",
     "DLC",
-    0.08
+    0.17
   ],
   [
     "Truhe",
     "Speedrun",
-    0.08
+    0.17
   ],
   [
     "Ping",
     "Spinat",
-    0.09
+    0.19
   ],
   [
     "Koffer",
     "Speedrun",
-    0.08
+    0.17
   ],
   [
     "Kennzeichen",
     "Stewardess",
-    0.12
+    0.26
   ],
   [
     "Gilde",
     "Knoblauch",
-    0.08
+    0.17
   ],
   [
     "Cringe",
     "Orange",
-    0.11
+    0.24
   ],
   [
     "Spiegel",
     "Uhrmacher",
-    0.07
+    0.15
   ],
   [
     "Bild",
     "Hoffnung",
-    0.08
+    0.18
   ],
   [
     "Eichhörnchen",
     "Hoffnung",
-    0.12
+    0.27
   ],
   [
     "Eichhörnchen",
     "Waschbär",
-    0.09
+    0.21
   ],
   [
     "Zitrone",
     "Erwartung",
-    0.07
+    0.16
   ],
   [
     "Mood",
     "Basic",
-    0.11
+    0.25
   ],
   [
     "Schlange",
     "Schauspieler",
-    0.07
+    0.16
   ],
   [
     "Traurigkeit",
     "Bodyshaming",
-    0.12
+    0.26
   ],
   [
     "Bauarbeiter",
     "Elefant",
-    0.09
+    0.19
   ],
   [
     "Flexen",
     "Sigma",
-    0.09
+    0.21
   ],
   [
     "Knoblauch",
     "Karotte",
-    0.1
+    0.22
   ],
   [
     "Schild",
     "Seepferdchen",
-    0.1
+    0.22
   ],
   [
     "Knoblauch",
     "Verwirrung",
-    0.12
+    0.27
   ],
   [
     "Speedrun",
     "Ei",
-    0.09
+    0.19
   ],
   [
     "Highkey",
     "Torte",
-    0.09
+    0.2
   ],
   [
     "Pilot",
     "Noob",
-    0.07
+    0.15
   ],
   [
     "Tomate",
     "Clan",
-    0.13
+    0.29
   ],
   [
     "Zebra",
     "Metzger",
-    0.12
+    0.26
   ],
   [
     "Schuld",
     "Architekt",
-    0.11
+    0.25
   ],
   [
     "Noob",
     "Eichhörnchen",
-    0.07
+    0.15
   ]
 ]
