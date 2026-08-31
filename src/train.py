@@ -26,7 +26,7 @@ args = SentenceTransformerTrainingArguments(
     learning_rate=2e-5,
     num_train_epochs=50,
     per_device_train_batch_size=16,
-    warmup_steps=100,
+    warmup_steps=100
 )
 
 # Trainer
