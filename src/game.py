@@ -21,7 +21,7 @@ class Germantris:
         similarities = {}
 
         for word, emb in candidates.items():
-            sim = cosine_similarity(guess_emb, emb)[0][0]
+            sim = cosine_similarity([guess_emb], [emb])[0][0]
             similarities[word] = sim
 
         sorted_words = sorted(similarities, key=similarities.get, reverse=True)
@@ -38,12 +38,15 @@ class Germantris:
                 new_words = (random.sample(self.wordlist, 3))
                 for word in new_words:
                     candidates[word] = self.wordlist_emb[word]
-                return True, candidates
+                target = random.choice(list(candidates.keys()))
+                gameOver = len(candidates) >= 14
+                return True, candidates, target, gameOver
             else:
                 # add new word
                 new_word = random.sample(self.wordlist, 1)[0]
                 candidates[new_word] = self.wordlist_emb[new_word]
-                return False, candidates
+                gameOver = len(candidates) >= 14
+                return False, candidates, target, gameOver
 
     def new_round(self):
         candidates = {word : self.wordlist_emb[word] for word in random.sample(self.wordlist, 10)}
