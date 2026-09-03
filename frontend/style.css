@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('imgs/AdobeStock_1099990223-scaled.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+}
+
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.93);
+    z-index: -1;
+}
+
+#start-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    gap: 10px;
+    padding: 0 20px;
+}
+
+h1 {
+    font-family: 'Michroma', sans-serif;
+    font-size: 5rem;
+    font-weight: 600;
+    letter-spacing: -2px;
+}
+
+p{
+    font-family: "Quantico", sans-serif;
+    max-width: 1000px;
+    margin-bottom: 25px;
+}
+
+#subtitle {
+    font-size: 1rem;
+    color: #888888;
+    max-width: 450px;
+    line-height: 1.6;
+}
+
+.btn-group {
+    display: flex;
+    gap: 12px;
+    margin-top: 10px;
+}
+
+button {
+    padding: 12px 40px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    font-family: 'Inter', sans-serif;
+    transition: background-color 0.2s;
+}
+
+#play-btn {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#play-btn:hover {
+    background-color: #cccccc;
+}
+
+#github-btn {
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+#github-btn:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#built-by {
+    position: absolute;
+    bottom: 30px;
+    color: #555555;
+    font-size: 0.85rem;
+}
+
+#built-by a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#built-by a:hover {
+    text-decoration: underline;
+}
+
+.semantris-link {
+    color: #C9E6FE;
+}
+#game-screen {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#candidates {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3px;
+}
+
+#home {
+    max-width: 50px;
+}
+.target-word {
+    color: #00bfa4;
+    font-weight: bold;
+}

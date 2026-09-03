@@ -38,7 +38,7 @@ class Germantris:
                 new_words = (random.sample(self.wordlist, 3))
                 for word in new_words:
                     candidates[word] = self.wordlist_emb[word]
-                target = random.choice(list(candidates.keys()))
+                target = random.choice(list(candidates.keys())[4:])
                 gameOver = len(candidates) >= 14
                 return True, candidates, target, gameOver
             else:
@@ -50,5 +50,5 @@ class Germantris:
 
     def new_round(self):
         candidates = {word : self.wordlist_emb[word] for word in random.sample(self.wordlist, 10)}
-        target = random.choice(list(candidates.keys()))
+        target = random.choice(list(candidates.keys())[4:])
         return target, candidates
