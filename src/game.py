@@ -8,7 +8,7 @@ class Germantris:
         base_path = os.path.dirname(os.path.dirname(__file__))
         model_path = os.path.join(base_path, "model", "finetuned-model")
 
-        self.model = SentenceTransformer("27aran/germantris-model")
+        self.model = SentenceTransformer(model_path)
 
         wordlist_path = os.path.join(base_path, "data", "wordlist.txt")
         with open(wordlist_path, 'r', encoding='utf-8') as wordlist:
