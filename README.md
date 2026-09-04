@@ -42,6 +42,13 @@ python src/train.py
 uvicorn backend.main:app --reload
 ```
 
+## Quick Start with Docker
+```bash
+docker-compose up
+```
+Dann `frontend/index.html` im Browser öffnen.
+
+
 Then open `frontend/index.html` in your browser.
 
 ## Model
