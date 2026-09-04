@@ -5,7 +5,7 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY . .
+COPY docs .
 
 # Modell von Hugging Face herunterladen beim Start
 ENV MODEL_PATH=/app/model/finetuned-model
