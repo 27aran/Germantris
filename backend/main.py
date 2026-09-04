@@ -33,7 +33,31 @@ def guess(request: GuessRequest):
     target = request.target
 
     candidates_dict = {word: game.wordlist_emb[word] for word in candidates}
-    is_hit, candidates_dict, target, gameOver = game.process_guess(guess, candidates_dict, target)
 
-    return {"hit":is_hit, "candidates":list(candidates_dict.keys()), "newTarget":target, "gameOver":gameOver}
+    if guess.lower().startswith(target.lower()) or target.lower().startswith(guess.lower()):
+        return {
+        "hit": False,
+        "candidates": list(candidates_dict.keys()),
+        "sorted_words": [],
+        "newTarget": target,
+        "gameOver": False,
+        "invalid": True}
+
+    is_hit, candidates_dict, target, gameOver, sorted_words = game.process_guess(guess, candidates_dict, target)
+
+    return {
+    "hit":is_hit,
+    "candidates":list(candidates_dict.keys()),
+    "sorted_words": sorted_words,
+    "newTarget":target,
+    "gameOver":gameOver,
+    "invalid": False}
+
+class AddWordRequest(BaseModel):
+    candidates: list[str]
+
+@app.post("/add_word")
+def add_word(request: AddWordRequest):
+    new_word = game.add_word(request.candidates)
+    return {"word": new_word}
 

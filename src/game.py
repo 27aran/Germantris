@@ -38,17 +38,21 @@ class Germantris:
                 new_words = (random.sample(self.wordlist, 3))
                 for word in new_words:
                     candidates[word] = self.wordlist_emb[word]
-                target = random.choice(list(candidates.keys())[4:])
+                target = random.choice(list(candidates.keys()))
                 gameOver = len(candidates) >= 14
-                return True, candidates, target, gameOver
+                return True, candidates, target, gameOver, sorted_words
             else:
                 # add new word
                 new_word = random.sample(self.wordlist, 1)[0]
                 candidates[new_word] = self.wordlist_emb[new_word]
                 gameOver = len(candidates) >= 14
-                return False, candidates, target, gameOver
+                return False, candidates, target, gameOver, sorted_words
 
     def new_round(self):
         candidates = {word : self.wordlist_emb[word] for word in random.sample(self.wordlist, 10)}
         target = random.choice(list(candidates.keys())[4:])
         return target, candidates
+
+    def add_word(self, candidates):
+        available = [word for word in self.wordlist if word not in candidates]
+        return random.choice(available)

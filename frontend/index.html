@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Michroma&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Michroma&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -35,8 +36,11 @@
     <div id="game-screen" style="display: none">
         <div id="top-bar">
             <img id="home" src="imgs/home.png" style="filter: invert(1);">
-            <img id="sound-on" src="https://cdn-icons-png.flaticon.com/512/727/727269.png" width="24" style="filter: invert(1); display: none;">
-            <img id="sound-off" src="https://cdn-icons-png.flaticon.com/512/727/727265.png" width="24" style="filter: invert(1);">
+        </div>
+
+        <div id="score-bar">PUNKTE: <span id="score">0</span></div>
+
+        <div id="kill-line">
         </div>
 
         <div id="candidates">
@@ -45,6 +49,16 @@
         <div id="input-bar">
             <input type="text" id="guess-input">
             <button id="submit">→</button>
+        </div>
+    </div>
+
+    <!-- Game-Over-Screen (anfangs versteckt) -->
+    <div id="gameover-screen" style="display: none">
+        <h1>GAME OVER</h1>
+        <p>Deine Punktzahl: <span id="final-score">0</span></p>
+
+        <div id="gameover-buttons">
+            <button id="replay-btn">Nochmal spielen</button>
         </div>
     </div>
 
